@@ -1,0 +1,9 @@
+*.cfi
+*.cmd
+*.def
+*.log
+*.map
+*.mk
+*.mot
+*.prj
+*.sub

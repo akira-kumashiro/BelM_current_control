@@ -1,0 +1,177 @@
+[MYWAY_WAVECONFIG]
+
+[WAVE Version]
+2.6.0.0
+
+[WAVE Memo]
+Title:
+
+Author:
+
+Memo:
+
+
+[SYSTEM]
+FontSelect  0
+PixelSelect  0
+BgColorNum  0
+SysColorNum  0
+GridSelect  0
+SmoothWaveFlg  1
+Detail  7
+Record  5000
+
+[HORZ]
+secdiv  0.200000
+cursor  0
+ca_color  1
+ca_pos  -0.200000
+cb_color  0
+cb_pos  0.200000
+grab_color  3
+range  1.000000
+position  0.000000
+
+[TRIG]
+ch_index  4
+level  0.000000
+position  0.000000
+mode  1
+edge  0
+
+[CH1]
+color  16
+gndpos  0.000000
+offset  0.000000
+valdiv  5.000000
+disp  1
+win  0
+hold  0
+RmsHzMean  2
+var_name  "ixA_ref"
+
+[CH2]
+color  17
+gndpos  0.000000
+offset  0.000000
+valdiv  5.000000
+disp  1
+win  0
+hold  0
+RmsHzMean  2
+var_name  "iyA_ref"
+
+[CH3]
+color  18
+gndpos  0.000000
+offset  0.000000
+valdiv  20.000000
+disp  1
+win  0
+hold  0
+RmsHzMean  2
+var_name  "vxA_ref"
+
+[CH4]
+color  19
+gndpos  0.000000
+offset  0.000000
+valdiv  20.000000
+disp  1
+win  0
+hold  0
+RmsHzMean  2
+var_name  "vyA_ref"
+
+[CH5]
+color  20
+gndpos  0.000000
+offset  0.000000
+valdiv  2.000000
+disp  1
+win  0
+hold  0
+RmsHzMean  2
+var_name  "hall_theta_calc"
+
+[CH6]
+color  21
+gndpos  0.000000
+offset  0.000000
+valdiv  1.000000
+disp  1
+win  0
+hold  0
+RmsHzMean  2
+var_name  "iqB_ref"
+
+[CH7]
+color  22
+gndpos  0.000000
+offset  0.000000
+valdiv  20.000000
+disp  1
+win  0
+hold  0
+RmsHzMean  2
+var_name  "vqB_ref"
+
+[CH8]
+color  23
+gndpos  0.000000
+offset  0.000000
+valdiv  20.000000
+disp  1
+win  0
+hold  0
+RmsHzMean  2
+var_name  "vdB_ref"
+
+[MATH1]
+color  24
+eval  "0"
+gndpos  0.000000
+offset  0.000000
+valdiv  1.000000
+disp  0
+win  0
+hold  0
+RmsHzMean  0
+
+[MATH2]
+color  25
+eval  "0"
+gndpos  0.000000
+offset  0.000000
+valdiv  1.000000
+disp  0
+win  0
+hold  0
+RmsHzMean  0
+
+[XY1]
+color  28
+ch_x  0
+ch_y  1
+valdiv_x  1.000000
+valdiv_y  1.000000
+offset_x  0.000000
+offset_y  0.000000
+disp  0
+win  0
+
+[XY2]
+color  29
+ch_x  0
+ch_y  1
+valdiv_x  1.000000
+valdiv_y  1.000000
+offset_x  0.000000
+offset_y  0.000000
+disp  0
+win  0
+
+[FFT]
+disp_flg  0
+
+
